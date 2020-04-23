@@ -1,3 +1,14 @@
+.DS_Store
+
+# JetBrains IDEs (CLion, etc.)
+.idea/
+
+# Visual Studio
+.vs/
+
+# Generated files
+_GENERATED/
+
 # Prerequisites
 *.d
 
